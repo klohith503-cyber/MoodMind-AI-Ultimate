@@ -3,7 +3,7 @@ gradio
 requests
 pandas
 plotly
-fpdf
+fpdf2
 deepface
 tf-keras
 opencv-python
