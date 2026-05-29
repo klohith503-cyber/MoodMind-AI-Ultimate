@@ -1,0 +1,12 @@
+transformers
+gradio
+requests
+pandas
+plotly
+fpdf
+deepface
+tf-keras
+opencv-python
+SpeechRecognition
+PyPDF2
+google-generativeai
